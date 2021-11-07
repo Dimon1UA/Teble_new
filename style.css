@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(191, 194, 194);
+}
+table{
+    border: 5px dashed rgb(0, 26, 255);
+    width: 1000px;
+    height: 50px;
+    background-color: turquoise;
+    margin: auto;
+}
+img{
+    border-radius: 500px;
+    width: 500px;
+   
+}
+.name{
+    width: 200px;
+    height: 200px;
+}
+td{
+    text-align: center;
+    font-size: 18px;
+}
+.title{
+    background-color: red;
+}
+th{
+    font-size: 20px;
+}
